@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-## My Codewars progress
+### My Codewars progress
 [![](https://www.codewars.com/users/AlexBob98/badges/large)](https://www.codewars.com/users/AlexBob98)  
 
 <!--
