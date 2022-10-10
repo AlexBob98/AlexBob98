@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## **Contacts** ##
+### **My Contacts** ###
 **Location:** Tbilisi, Georgia\
 **Phone:** +995 551-156-428 \
 **Email:** alexanderbobryshev@icloud.com \
