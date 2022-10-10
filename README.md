@@ -3,7 +3,7 @@
 ### My Codewars progress
 [![](https://www.codewars.com/users/AlexBob98/badges/large)](https://www.codewars.com/users/AlexBob98)  
 
-## **My Skills & Technologies** ##
+### **My Skills & Technologies** ##
 ![](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=red)
 ![](https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=CSS3&logoColor=blue)
 ![](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow)
