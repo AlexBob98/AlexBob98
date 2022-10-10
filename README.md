@@ -45,6 +45,9 @@
     + 2021 **WayUp** - WebDesign in Figma
     + 2021 **Logomachine** - WebDesign and Design in Figma ([Behance](https://www.behance.net/albobryshev))
     
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexBob98&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+<img src="http://pa1.narvii.com/7378/6429b3f58307967e1061dc8e1ecc6b4d553478c7r1-800-600_00.gif">
 
 <!--
 **AlexBob98/AlexBob98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
