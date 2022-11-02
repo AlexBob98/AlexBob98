@@ -8,7 +8,7 @@
 **Telegram:** @albobryshev 
 
 ### My Codewars progress
-[![](https://www.codewars.com/users/AlexBob98/badges/large)](https://www.codewars.com/users/AlexBob98)  
+[![](https://www.codewars.com/users/AlexBob98/badges/small)](https://www.codewars.com/users/AlexBob98)  
 
 ### **My Skills & Technologies** ##
 ![](https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5&logoColor=red)
