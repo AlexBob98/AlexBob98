@@ -2,8 +2,6 @@
 
 ### **My Contacts** ###
 **Location:** Tbilisi, Georgia\
-**Phone:** +995 551-156-428 \
-**Email:** alexanderbobryshev@icloud.com \
 **Discord:** Alex Bob#2190\
 **Telegram:** @albobryshev 
 
