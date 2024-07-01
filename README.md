@@ -11,7 +11,7 @@
 + 2024 **Bless Studio** - Website(Weppack, Vanilla JS) ([bless-studio](https://github.com/AlexBob98/bless-studio/tree/gh-pages))
 + 2023 **Online Store** - Store with Weppack, TypeScript ([Online-Store](https://github.com/AlexBob98/online-store))
 + 2023 **Weather App** - Weather App with React ([Weather App](https://github.com/AlexBob98/weather-app/tree/weather-app))
-+ 2023 **Feedback App** - Feedback App with React ([Feedback App](https://github.com/AlexBob98/feedback-app/tree/feedback-app))
++ 2023 **Feedback App** - Feedback App with React and MockApi ([Feedback App](https://github.com/AlexBob98/feedback-app/tree/feedback-app))
 + 2022 **HTML Builder** - Builder with Node.js ([HTML Builder](https://github.com/AlexBob98/HTML-builder))
 + 2022 **CV Website** - Website CV with Vanilla.js ([Website CV](https://github.com/AlexBob98/rsschool-cv/tree/gh-pages))
 
