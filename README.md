@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 ### **My Contacts** ###
-<-- **Location:** Tbilisi, Georgia\ -->
 **Discord:** Alex Bob#2190\
 **Telegram:** @albobryshev 
 
