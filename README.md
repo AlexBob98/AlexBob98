@@ -9,7 +9,7 @@
 [![](https://www.codewars.com/users/AlexBob98/badges/small)](https://www.codewars.com/users/AlexBob98)  
 
 ### My Projects
-+ 2024 **Bless Studio** - «Website(Weppack, Vanilla JS)» ([bless-studio]([(https://github.com/AlexBob98/bless-studio/tree/gh-pages)]))
++ 2024 **Bless Studio** - «Website(Weppack, Vanilla JS)» ([bless-studio](https://github.com/AlexBob98/bless-studio/tree/gh-pages))
 + 2023 **Online Store** - «Store with Weppack, TypeScript» ([Online-Store]([(https://github.com/AlexBob98/online-store)])
 
 
