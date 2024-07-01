@@ -43,11 +43,9 @@
     + 2022 **RS Schools** - «React 2022Q3» (in proggress)
     + 2022 **RS Schools** - «JavaScript/Front-end Pre-school 2022» ([certificate](https://app.rs.school/certificate/2o2swiid))
     + 2022 **RS Schools** - «JavaScript/Front-end 2022Q1» ([certificate](https://app.rs.school/certificate/zfz5j9t8))
-    + 2021 **HEXLET** - JavaScript for begginers 
-    + 2021 **HEXLET** - GitHub for begginers
-    + 2021 **Code Basics** - HTML for begginers 
-    + 2021 **Code Basics** - CSS for begginers
-    + 2021 **Code Basics** - JavaScript for begginers
+    + 2021 **HEXLET** - JavaScript
+    + 2021 **HEXLET** - GitHub
+    + 2021 **Code Basics** - HTML / CSS / JavaScript
     + 2021 **WayUp** - WebDesign in Figma
     + 2021 **Logomachine** - WebDesign and Design in Figma ([Behance](https://www.behance.net/albobryshev))
     
