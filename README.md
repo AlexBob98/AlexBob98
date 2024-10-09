@@ -4,7 +4,7 @@
 ![](https://img.shields.io/badge/telegram-@albobryshev-blue)
 
 ### My Projects
-+ 2024 **Tracker Money** - Tracker Money(VueJS with Pinia store, Vite) ([Tracker Money](https://github.com/AlexBob98/tracker-money/tree/dev))
++ 2024 **Tracker Money** - Tracker Money(VueJS with Pinia store, Vite, useToast) ([Tracker Money](https://github.com/AlexBob98/tracker-money/tree/dev))
 + 2024 **Bless Studio** - Website(Weppack, Vanilla JS) ([bless-studio](https://github.com/AlexBob98/bless-studio/tree/gh-pages))
 + 2023 **Online Store** - Store with Weppack, TypeScript ([Online-Store](https://github.com/AlexBob98/online-store))
 + 2023 **Weather App** - Weather App with React ([Weather App](https://github.com/AlexBob98/weather-app/tree/weather-app))
