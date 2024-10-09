@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### **My Contacts** ###
-![](https://img.shields.io/badge/telegram-@albobryshev-blue)
+[![](https://img.shields.io/badge/telegram-@albobryshev-blue)](https://t.me/albobryshev)
 
 ### My Projects
 + 2024 **Tracker Money** - Tracker Money(VueJS with Pinia store, Vite, useToast) ([Tracker Money](https://github.com/AlexBob98/tracker-money/tree/dev))
