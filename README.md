@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 ### **My Contacts** ###
-**Discord:** Alex Bob#2190\
 **Telegram:** @albobryshev 
 
 ### My Projects
