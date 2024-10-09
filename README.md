@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 ### **My Contacts** ###
-**Telegram:** @albobryshev 
+![](https://img.shields.io/badge/telegram-@albobryshev-blue)
 
 ### My Projects
 + 2024 **Tracker Money** - Tracker Money(VueJS with Pinia store, Vite) ([Tracker Money](https://github.com/AlexBob98/tracker-money/tree/dev))
@@ -21,6 +21,7 @@
 ![](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=yellow)
 ![](https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logo=TypeScript&logoColor=blue)
 ![](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=cyan)
+![](https://img.shields.io/badge/-Vue.js-black?style=for-the-badge&logo=Vue.js&logoColor=green)
 ![](https://img.shields.io/badge/-Node.JS-black?style=for-the-badge&logo=Node.JS&logoColor=lime)
 ![](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white)
 ![](https://img.shields.io/badge/-Figma-black?style=for-the-badge&logo=Figma&logoColor=red)
