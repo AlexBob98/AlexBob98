@@ -11,6 +11,7 @@
 + 2023 **Feedback App** - Feedback App (React, MockApi for BackEnd) ([Feedback App](https://github.com/AlexBob98/feedback-app/tree/feedback-app))
 + 2022 **HTML Builder** - Builder (Node.js) ([HTML Builder](https://github.com/AlexBob98/HTML-builder))
 + 2022 **CV Website** - Website CV (JavaScript) ([Website CV](https://github.com/AlexBob98/rsschool-cv/tree/gh-pages))
++ 2016 **Stickersp-eCommerce** - Website (PHP, JS, jQuery, MySQl) ([Website](https://stickersp.ru/))
 
 ### My Codewars progress
 [![](https://www.codewars.com/users/AlexBob98/badges/small)](https://www.codewars.com/users/AlexBob98)  
